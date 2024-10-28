@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-delville-641b12216)
 
