@@ -1,6 +1,15 @@
 ## Hi there 👋
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-delville-641b12216)
+
+| Langage       | Niveau            |
+|---------------|-------------------|
+| HTML          | Intermédiaire     |
+| CSS           | Intermédiaire     |
+| JavaScript    | Débutant/Intermédiaire |
+| SQL           | Débutant          |
+| PHP           | Débutant          |
+
 <!--
 **ThomasDlv0/ThomasDlv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
