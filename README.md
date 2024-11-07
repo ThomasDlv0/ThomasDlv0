@@ -4,6 +4,7 @@
 # About me
 
 - 🖥️ Junior Web Developer
+- 👾 Age of empire player
 
 ## Language
 
