@@ -1,4 +1,6 @@
-## Hello 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2600F7&background=FFFFFF00&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+ThomasDlv0)](https://git.io/typing-svg)
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-delville-641b12216)
 
