@@ -14,7 +14,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
-## Environnement
+## Environment
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-8A2BE2?logo=PhpStorm&logoColor=white)  <!-- Fond violet pour PhpStorm -->
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1C78C0?logo=WebStorm&logoColor=white)  <!-- Fond bleu pour WebStorm -->
