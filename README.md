@@ -22,6 +22,7 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1C78C0?logo=WebStorm&logoColor=white)  <!-- Fond bleu pour WebStorm -->
 ![PyCharm](https://img.shields.io/badge/-PyCharm-FFD43B?logo=PyCharm&logoColor=black)    <!-- Fond jaune pour PyCharm -->
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-D70A53?logo=debian&logoColor=white)
 
 
 
