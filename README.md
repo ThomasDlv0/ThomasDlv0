@@ -10,8 +10,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=WebStorm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?logo=PhpStorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white)
+
 
 
 
