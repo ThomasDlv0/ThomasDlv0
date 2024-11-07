@@ -1,14 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2600F7&background=FFFFFF00&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+ThomasDlv0)](https://git.io/typing-svg)
 
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="SQL" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" height="50" style="margin: 10px;"/>
-</div>
+## About me
 
+- 🖥️ Junior Web Developer
+
+## Language
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 
 
