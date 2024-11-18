@@ -18,7 +18,7 @@
 
 ## Environment
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
-![Debian](https://img.shields.io/badge/-Linux-D70A53?logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-8300ff?logo=PhpStorm&logoColor=black)  <!-- Fond violet pour PhpStorm -->
 ![WebStorm](https://img.shields.io/badge/-WebStorm-096aff?logo=WebStorm&logoColor=black)  <!-- Fond bleu pour WebStorm -->
