@@ -19,7 +19,7 @@
 ## Environment
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windobe-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-8300ff?logo=PhpStorm&logoColor=black)  <!-- Fond violet pour PhpStorm -->
 ![WebStorm](https://img.shields.io/badge/-WebStorm-096aff?logo=WebStorm&logoColor=black)  <!-- Fond bleu pour WebStorm -->
