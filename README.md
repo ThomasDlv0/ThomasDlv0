@@ -42,6 +42,7 @@ const thomas = {
 ### Environnement de Développement
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
@@ -51,7 +52,7 @@ const thomas = {
 
 ## 📊 GitHub Stats
 
-<div align="space-between">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasDlv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDlv0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
