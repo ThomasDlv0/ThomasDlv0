@@ -45,9 +45,9 @@ const thomas = {
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-7256FF?style=for-the-badge&logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-027FFC?style=for-the-badge&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-00D886?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-4E8B8D?style=for-the-badge&logo=zsh&logoColor=white)
 
 ## 📊 GitHub Stats
