@@ -52,12 +52,10 @@ const thomas = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/ThomasDlv0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasDlv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDlv0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
+<div align="center">
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasDlv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDlv0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
 ## 📫 Contact
 
