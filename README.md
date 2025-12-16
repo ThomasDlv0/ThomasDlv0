@@ -51,12 +51,9 @@ const thomas = {
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: row;">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasDlv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDlv0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasDlv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDlv0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ## 🌱 Actuellement en apprentissage
@@ -68,7 +65,7 @@ const thomas = {
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](votre-lien-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-delville-641b12216/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maisonpi.fr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email)
 
