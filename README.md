@@ -56,13 +56,6 @@ const thomas = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDlv0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-## 🌱 Actuellement en apprentissage
-
-- 🎯 Approfondissement de **Symfony** & **React**
-- 🔧 Architectures **API REST** et **microservices**
-- 📱 Développement mobile avec **React Native**
-- 🐳 Conteneurisation avec **Docker**
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-delville-641b12216/)
