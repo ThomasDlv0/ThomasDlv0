@@ -51,7 +51,7 @@ const thomas = {
 
 ## 📊 GitHub Stats
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasDlv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
