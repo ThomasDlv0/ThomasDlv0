@@ -51,7 +51,7 @@ const thomas = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="space-between">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasDlv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDlv0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
