@@ -26,7 +26,7 @@ jobs:
           config_timezone: Europe/Paris
 
           # Plugins
-          plugin_lines: no
+          plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
@@ -57,10 +57,10 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
 
-          plugin_discussions: yes
+          plugin_discussions: no
           plugin_discussions_categories: yes
 
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
