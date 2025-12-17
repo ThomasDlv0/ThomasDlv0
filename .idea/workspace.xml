@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48e16215-001a-48e0-a995-f09b5672a830" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/Metrics.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765976857431</updated>
-      <workItem from="1765976858534" duration="140000" />
+      <workItem from="1765976858534" duration="212000" />
     </task>
     <servers />
   </component>
