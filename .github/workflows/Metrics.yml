@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   # Schedule updates (every day at 00:00)
-  schedule: [ { cron: "0 0 * * *" } ]
+  schedule: [{cron: "0 */6 * * *"}]  # Toutes les 6 heures
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: { branches: [ "main", "master" ] }
