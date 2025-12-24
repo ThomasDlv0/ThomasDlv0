@@ -59,8 +59,6 @@ const thomas = {
 ![PyCharm](https://img.shields.io/badge/PyCharm-F0EB18?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Zsh](https://img.shields.io/badge/Zsh-4E8B8D?style=for-the-badge&logo=zsh&logoColor=white)
 
----
-
 ## 📫 Contact & Réseaux
 
 <p align="center">
